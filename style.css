@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 60px;
+  background-color: rgba(74, 179, 228, 0.637)
+  
+  h1{
+    color: rgb(rgba(187, 41, 245, 0.37), green, blue)
+  }
+  p3{
+    color:rgb(rgba(228, 119, 119, 0.199), green, blue)
+  
+  }
+}
